@@ -3,7 +3,7 @@ DSA research in ICT, CAS
 
 
 ## report 1
-[Design of an 8-bit Bit-Parallel RSFQ Microprocessor](https://github.com/Yifu-Tian/DSA/blob/main/report1.pdf)  
+[Design of an 8-bit Bit-Parallel RSFQ Microprocessor](https://github.com/Yifu-Tian/DSA/blob/main/report1.pdf)  \
 
 [Design and Demonstration of an 8-bit Bit-Serial RSFQ Microprocessor: CORE e4](https://github.com/Yifu-Tian/DSA/blob/main/report1.pdf)
 
