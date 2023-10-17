@@ -13,3 +13,6 @@ DSA research in ICT, CAS
 
 ## report 3
 [Design and implementation of bit-parallel RSFQ shift register memories](https://github.com/Yifu-Tian/DSA/blob/main/report3.pdf)
+
+## report 4
+[A Local Optimization Method for Single Flux Quantum Logic Circuits Design Utilizing Synchronizer IPs](https://github.com/Yifu-Tian/DSA/blob/main/report4.pdf)
