@@ -1,6 +1,6 @@
-# DSA
-DSA research in ICT, CAS
+# CGRA
 
+基于SFQ电路的CGRA设计
 
 ## report 1
 [Design of an 8-bit Bit-Parallel RSFQ Microprocessor](https://github.com/Yifu-Tian/DSA/blob/main/report1.pdf)  
